@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lei0619(student)
-- 👀 I’m interested on learning Back&Front end Dev
+- 👀 I’m interested on learning Backend/Frontend Dev
 
   
 
